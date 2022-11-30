@@ -36,7 +36,7 @@ pylint src
 ```
 ### Current Score:
 <p>
-    <img src="LAST/score.jpeg" />
+    <img src="score.jpeg" />
 </p>
 
 ## Installation of LAST on local
